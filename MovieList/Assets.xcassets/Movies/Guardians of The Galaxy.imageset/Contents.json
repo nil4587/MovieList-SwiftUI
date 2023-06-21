@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Guardians of The Galaxy.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "341C81D4-D141-4F3E-994A-8174408D15AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CD5BB6A-41A8-4C0C-BD2F-EA0262468D90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieList/View/MovieListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5CD5BB6A-41A8-4C0C-BD2F-EA0262468D90 - e283d7b6e3707fa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.EmptyView in closure #1 (SwiftUI.Binding&lt;MovieList.Movie&gt;) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.EmptyView, MovieList.MovieDetailsView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;MovieList.Movie&gt;&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUI.EmptyView, MovieList.MovieDetailsView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in MovieList.MovieListView.body.getter : some"
+                  moduleName = "MovieList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nileshkumarm.prajapati/Documents/SwiftUI%20Demos/MovieList/MovieList/View/MovieListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "5CD5BB6A-41A8-4C0C-BD2F-EA0262468D90 - 440ab6323f10c54e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; MovieList.MovieListRow in closure #1 (SwiftUI.Binding&lt;MovieList.Movie&gt;) -&gt; SwiftUI.NavigationLink&lt;MovieList.MovieListRow, MovieList.MovieDetailsView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;MovieList.Movie&gt;&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;MovieList.MovieListRow, MovieList.MovieDetailsView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in MovieList.MovieListView.body.getter : some"
+                  moduleName = "MovieList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nileshkumarm.prajapati/Documents/SwiftUI%20Demos/MovieList/MovieList/View/MovieListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
